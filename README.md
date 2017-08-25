@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jiminhsieh/sbt-jmh-seed.g8.svg?branch=master)](https://travis-ci.org/jiminhsieh/sbt-jmh-seed.g8)
+
 ## A [Giter8](http://www.foundweekends.org/giter8/) template for [sbt-jmh](https://github.com/ktoso/sbt-jmh)
 
 > sbt new jiminhsieh/sbt-jmh-seed.g8
